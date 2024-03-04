@@ -1,0 +1,1 @@
+prompt() -> Mirip dengan alert tapi bisa memasukkan input
