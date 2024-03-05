@@ -1,1 +1,14 @@
 prompt() -> Mirip dengan alert tapi bisa memasukkan input
+template literal -> contoh: alert('Nama Saya ${myName}')
+
+
+Senin, 4 Maret 2024 summary = 
+- JavaScript data type
+- run JavaScript in browser developer tools with console or sources->sinppet 
+- naming convention javascript
+- JavaScript variables
+- basic aritmathics (terutama modulus)
+- conditional logic with IF ELSE
+- comparison operator
+- praktek live coding dengan combining operator dan conditional logic
+
