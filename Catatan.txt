@@ -12,3 +12,12 @@ Senin, 4 Maret 2024 summary =
 - comparison operator
 - praktek live coding dengan combining operator dan conditional logic
 
+sama ini Summary Selasa, 5 Maret 2024
+- Memasukkan JavaScript ke website kita
+- DOM dan penggunaan HTML Tree Generator extension
+- Selecting HTML element dengan JavaScript
+- Manipulasi dan merubah Styling(CSS) dari HTML element dengan JavaScript
+- Manipulasi Text dengan TEXT CONTENT property 
+- Manipulasi HTML element attributes 
+- Membuat HTML element baru dengan createElement
+- Menambahkan HTML element dengan APPEND / APPENDCHILD
